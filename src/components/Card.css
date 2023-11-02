@@ -1,0 +1,45 @@
+.mainDiv {
+  margin-top: 15px;
+  padding-left: 10px;
+  min-width: 270px;
+  max-width: 270px;
+  height: auto;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 1px 1px 1px grey;
+}
+
+.topSection {
+  display: flex;
+  justify-content: space-between;
+}
+
+.topSection p {
+  font-size: 12px;
+  margin-top: 20px;
+}
+h5 {
+  font-size: 13px;
+  font-weight: bold;
+}
+.topSection img {
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  height: 30px;
+}
+
+.midSection {
+  margin-top: -25px;
+}
+
+.bottomSection {
+  display: flex;
+  margin-top: -25px;
+}
+
+.bottomSection p {
+  padding: 5px;
+  border: 1px solid #f4f5f8;
+  margin-right: 15px;
+}
